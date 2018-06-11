@@ -821,7 +821,7 @@ const fortunes = [
     'Even though it will often be difficult and complicated, you know you have what it takes to get it done.',
 ];
 
-const path = '/var/www/html/temp/fortune.json';
+const path = '/var/www/html/flash-briefings/fortune-cookie.json';
 const now = new Date();
 const months = [
     'January',
