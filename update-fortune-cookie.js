@@ -851,7 +851,7 @@ fs.writeFile(path, JSON.stringify(skillData, null, 4), err => {
         return console.log(err);
     }
 
-    console.log('fortune.json was successfully updated!');
+    console.log('fortune-cookie.json was successfully updated!');
 });
 
 // from https://stackoverflow.com/a/2117523/1063392
