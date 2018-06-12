@@ -14,3 +14,8 @@ Small utilities that power the Fortune Cookie and Oddly Specific Fortunes Alexa 
     2. https://nathanfriend.io/flash-briefings/oddly-specific-fortunes.json
 6. ???
 7. Profit.
+
+## Developing
+
+1. Run `npm install`.  Note - node dependencies should only be used for development, since the dependencies won't be available when the scripts run on the server.
+2. Run `npm run test`.
