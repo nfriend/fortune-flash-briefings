@@ -582,7 +582,7 @@ const fortunes = [
     'The time is alway right to do what is right.',
     'Love is as necessary to human beings as food and shelter.',
     'You will make heads turn.',
-    "You are extremely loved. Don't worry :)",
+    "You are extremely loved. Don't worry!",
     'If you are never patient, you will never get anything done. If you believe you can do it, you will be rewarded with success.',
     'You will soon embark on a business venture.',
     'You believe in the goodness of man kind.',
