@@ -52,6 +52,9 @@ const fortunes = [
     "Right after hearing this fortune, you'll be so entertained that you'll look up the developer of this flash briefing and enable all his other Alexa skills.",
     'You will talk on the phone with someone from a different state this afternoon.',
     'You will accidentally send an email before you finish writing it tomorrow.',
+    'You will run out of bread on Thursday.',
+    'You will notice two burned-out light bulbs in your home tomorrow afternoon.',
+    'You will receive an email at 2:22 PM tomorrow afternoon.'
 ];
 
 const names = [
@@ -125,7 +128,7 @@ for (var i = 0; i < 10; i++) {
     fortunes.push(`You will meet someone named ${name} ${when}`);
 }
 
-const path = '/var/www/html/flash-briefings/oddly-specific-fortunes.json';
+const path = '/etc/nginx/html/flash-briefings/oddly-specific-fortunes.json';
 const now = new Date();
 const months = [
     'January',
