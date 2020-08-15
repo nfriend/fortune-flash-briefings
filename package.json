@@ -1,22 +1,15 @@
 {
   "name": "@nathanfriend/fortune-flash-briefings",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Small utilities that power the Fortune Cookie and Oddly Specific Fortunes Alexa flash briefings",
-  "scripts": {
-    "test": "node test.js"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nfriend/fortune-flash-briefings.git"
+    "url": "git+https://gitlab.com/nfriend/fortune-flash-briefings.git"
   },
   "author": "Nathan Friend",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nfriend/fortune-flash-briefings/issues"
+    "url": "https://gitlab.com/nfriend/fortune-flash-briefings/issues"
   },
-  "homepage": "https://github.com/nfriend/fortune-flash-briefings#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "proxyquire": "^2.0.1"
-  }
+  "homepage": "https://gitlab.com/nfriend/fortune-flash-briefings#readme"
 }
