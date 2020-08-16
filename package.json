@@ -1,6 +1,6 @@
 {
   "name": "@nathanfriend/fortune-flash-briefings",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Small utilities that power the Fortune Cookie and Oddly Specific Fortunes Alexa flash briefings",
   "repository": {
     "type": "git",
